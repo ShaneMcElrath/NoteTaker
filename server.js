@@ -29,7 +29,7 @@ app.get('/', (req, res) => {
 
 app.post('/api/notes', (req, res) => {
 
-  req.body.id = notes.length;
+  req.body.id = notes.length + 1;
   let notesArray = notes;
   const note = req.body;
 
