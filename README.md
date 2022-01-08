@@ -13,4 +13,4 @@ A web application that allows the user to write and store notes.
 * Express.js
 
 ## Website
-https://floating-plateau-06834.herokuapp.com/notes
+https://floating-plateau-06834.herokuapp.com
