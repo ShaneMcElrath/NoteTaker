@@ -4,7 +4,8 @@
 A web application that allows the user to write and store notes.
 
 ## Screen Shot
-![ScreenShot](./public/assets/images/Screenshot1.png?raw=true "Web-Page")
+![ScreenShot](./public/assets/images/Screenshot1.png?raw=true "Landing Page")
+![ScreenShot](./public/assets/images/Screenshot2.png?raw=true "Landing Page")
 
 ## Built With
 * HTML
